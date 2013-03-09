@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">testApp2</string>
+    <string name="addB">Add</string>
+    <string name="txt.button.save">Save</string>
+    <string name="txt.button.cancel">Cancel</string>
+    <string name="txt.add.list.hint">List name</string>
+    <string name="item.add.button">Add</string>
+    <string name="item.back.button">Back</string>
+</resources>
